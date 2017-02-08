@@ -33,3 +33,6 @@ Criar a proposta da aplicação, qual o objetivo, oque ela agrega, usuarios,etc.
 - Se a quantidade quantidade requisitada de um determinado  item existe em estoque, tal quantidade é associada ao pedido, caso contrário, a quantidade do item será alterada (se houver em quantidade menor), se a quantidade em estoque for igual a zero, o item será excluído. 
 - O pedido é enviado pelo depósito ao cliente quando todos os itens estiverem associados e o pagamento estiver autorizado. 
 -  O pedido será cancelado se a ordem de pagamento não tiver sido autorizada.
+
+##Aula 25/01
+(Grupo) Implementar os modelos da dados dos trabalhos
