@@ -36,3 +36,14 @@ Criar a proposta da aplicação, qual o objetivo, oque ela agrega, usuarios,etc.
 
 ##Aula 25/01
 (Grupo) Implementar os modelos da dados dos trabalhos
+
+##Aula 15/02(Individual)
+
+1. Discuta o papel de um modelo de dados de alto-nível no projeto de banco de dados. 
+2. Cite alguns possíveis casos onde o valor nulo (null) pode ser aplicado.  
+3. Defina os seguintes termos: entidade, atributo, valor de atributo, instância de relacionamento, atributo composto, atributo univalorado, atributo multivalorado, atributo derivado e atributo-chave.
+4.	Defina tipo de entidade. Descreva as diferenças entre entidade e tipo de entidade. 
+5.	Defina tipo de relacionamento. Descreva as diferenças entre relacionamento e tipo de relacionamento. 
+6.	Quando é necessário indicar papéis num DER?
+
+
