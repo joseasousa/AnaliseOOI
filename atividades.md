@@ -46,4 +46,8 @@ Criar a proposta da aplicação, qual o objetivo, oque ela agrega, usuarios,etc.
 5.	Defina tipo de relacionamento. Descreva as diferenças entre relacionamento e tipo de relacionamento. 
 6.	Quando é necessário indicar papéis num DER?
 
+##Aula 13/03
+(Grupo) Implementar diagramas de sequencia dos trabalhos
+
+1. Elabore um diagrama de sequência para um algoritmo de login e autenticação, tanto via e mail, senha como por botão rede social(Individual)
 
